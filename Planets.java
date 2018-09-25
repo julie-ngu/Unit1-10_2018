@@ -32,22 +32,22 @@ public class Planets {
 			System.out.print("You have chosen " + PlanetsInfo.VENUS + ", the " + PlanetsInfo.VENUS.position + "nd planet in our solar system.");
 			break;
 		case EARTH :
-			System.out.print("You have chosen " + PlanetsInfo.EARTH + ", the " + PlanetsInfo.EARTH.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.EARTH + ", the " + PlanetsInfo.EARTH.position + "rd planet in our solar system.");
 			break;
 		case MARS :
-			System.out.print("You have chosen " + PlanetsInfo.MARS + ", the " + PlanetsInfo.MARS.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.MARS + ", the " + PlanetsInfo.MARS.position + "th planet in our solar system.");
 			break;
 		case JUPITER :
-			System.out.print("You have chosen " + PlanetsInfo.JUPITER + ", the " + PlanetsInfo.JUPITER.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.JUPITER + ", the " + PlanetsInfo.JUPITER.position + "th planet in our solar system.");
 			break;
 		case SATURN :
-			System.out.print("You have chosen " + PlanetsInfo.SATURN + ", the " + PlanetsInfo.SATURN.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.SATURN + ", the " + PlanetsInfo.SATURN.position + "th planet in our solar system.");
 			break;
 		case URANUS :
-			System.out.print("You have chosen " + PlanetsInfo.URANUS + ", the " + PlanetsInfo.URANUS.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.URANUS + ", the " + PlanetsInfo.URANUS.position + "th planet in our solar system.");
 			break;
 		case NEPTUNE :
-			System.out.print("You have chosen " + PlanetsInfo.NEPTUNE + ", the " + PlanetsInfo.NEPTUNE.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.NEPTUNE + ", the " + PlanetsInfo.NEPTUNE.position + "th planet in our solar system.");
 			break;
 		}
 	}
