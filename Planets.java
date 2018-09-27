@@ -26,28 +26,28 @@ public class Planets {
 		switch(userChoice) {
 		
 		case MERCURY :
-			System.out.print("You have chosen " + PlanetsInfo.MERCURY + ", the " + PlanetsInfo.MERCURY.position + "st planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.MERCURY + ", the " + PlanetsInfo.MERCURY.position + "st planet in our solar system.\n");
 			break;
 		case VENUS :
-			System.out.print("You have chosen " + PlanetsInfo.VENUS + ", the " + PlanetsInfo.VENUS.position + "nd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.VENUS + ", the " + PlanetsInfo.VENUS.position + "nd planet in our solar system.\n");
 			break;
 		case EARTH :
-			System.out.print("You have chosen " + PlanetsInfo.EARTH + ", the " + PlanetsInfo.EARTH.position + "rd planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.EARTH + ", the " + PlanetsInfo.EARTH.position + "rd planet in our solar system.\n");
 			break;
 		case MARS :
-			System.out.print("You have chosen " + PlanetsInfo.MARS + ", the " + PlanetsInfo.MARS.position + "th planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.MARS + ", the " + PlanetsInfo.MARS.position + "th planet in our solar system.\n");
 			break;
 		case JUPITER :
-			System.out.print("You have chosen " + PlanetsInfo.JUPITER + ", the " + PlanetsInfo.JUPITER.position + "th planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.JUPITER + ", the " + PlanetsInfo.JUPITER.position + "th planet in our solar system.\n");
 			break;
 		case SATURN :
-			System.out.print("You have chosen " + PlanetsInfo.SATURN + ", the " + PlanetsInfo.SATURN.position + "th planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.SATURN + ", the " + PlanetsInfo.SATURN.position + "th planet in our solar system.\n");
 			break;
 		case URANUS :
-			System.out.print("You have chosen " + PlanetsInfo.URANUS + ", the " + PlanetsInfo.URANUS.position + "th planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.URANUS + ", the " + PlanetsInfo.URANUS.position + "th planet in our solar system.\n");
 			break;
 		case NEPTUNE :
-			System.out.print("You have chosen " + PlanetsInfo.NEPTUNE + ", the " + PlanetsInfo.NEPTUNE.position + "th planet in our solar system.");
+			System.out.print("You have chosen " + PlanetsInfo.NEPTUNE + ", the " + PlanetsInfo.NEPTUNE.position + "th planet in our solar system.\n");
 			break;
 		}
 	}
